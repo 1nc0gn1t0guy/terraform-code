@@ -1,2 +1,2 @@
-# terraform-code
-Terraform code for different cloud providers.
+# Terraform snippets
+Terraform code for different cloud providers. 
